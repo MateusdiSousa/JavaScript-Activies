@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: rgb(0, 100, 90);
+    font-family: Helvetica, sans-serif;
+}
+
+.container{
+    border-radius: 20px;
+    margin: 60px;
+    padding: 20px;
+    background-color: white;
+}
